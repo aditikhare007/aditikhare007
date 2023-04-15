@@ -1,5 +1,8 @@
 
-![](https://github.com/aditikhare007/aditikhare007/Aditi_Khare_Github_Banner.png)
+
+<a href="https://aditikhare007.github.io/Aditi_Khare_Full_Stack_AI_Machine_Learning_Product_Engineer_Portfolio.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/aditi_final_gihub_portfolio_repo_image.png" /></a>
+
+
 ### Hi there 👋
 
 <!--
