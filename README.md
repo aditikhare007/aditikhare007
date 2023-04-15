@@ -12,7 +12,9 @@ Want to know more about me? [Check out my [Personal Website] Full Stack AI Machi
 
 ### Global Community Member - Learning & Sharing knowledge from Amazing AI Global Communities 
 
-<a href="https://aditikhare007.github.io/Aditi_Khare_Full_Stack_AI_Machine_Learning_Product_Engineer_Portfolio.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/aditi_final_gihub_portfolio_repo_image.png" /></a>
+<a href="https://lets-unify.ai/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Ivy_Image.png" /></a>
+
+
 
 
 
