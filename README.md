@@ -10,13 +10,13 @@ Want to know more about me? [Check out my [Personal Website] Full Stack AI Machi
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](<aditikhare007@gmail.com>)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](<https://medium.com/@aditikhare007>)
 
-### Global Community Member - Learning & Sharing knowledge from Amazing AI Global Communities 
+### Global Community Member - Open-Source Contributor, Learning, Sharing knowledge and Research Papers Reading Group Member part of Amazing AI Global Communities across the globe !! 
 
 <a href="https://lets-unify.ai/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Ivy_Image.png" /></a>
-
-
-
-
+<a href="https://www.linkedin.com/company/mlops-learners/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/MLOPS.png" /></a>
+<a href="https://www.linkedin.com/company/huggingface/mycompany/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Hugging_Face.png" /></a>
+<a href="https://www.linkedin.com/company/cohere-ai/mycompany/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Cohere.png" /></a>
+<a href="https://www.linkedin.com/company/evidently-ai/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Evidently_AI.png" /></a>
 
 ## Hello Developer Community 👋 About my [Aditi Khare's Profile Summary] 
 
