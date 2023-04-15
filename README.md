@@ -10,6 +10,11 @@ Want to know more about me? [Check out my [Personal Website] Full Stack AI Machi
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](<aditikhare007@gmail.com>)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](<https://medium.com/@aditikhare007>)
 
+### Global Community Member - Learning & Sharing knowledge from Amazing AI Global Communities 
+
+<a href="https://aditikhare007.github.io/Aditi_Khare_Full_Stack_AI_Machine_Learning_Product_Engineer_Portfolio.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/aditi_final_gihub_portfolio_repo_image.png" /></a>
+
+
 
 ## Hello Developer Community 👋 About my [Aditi Khare's Profile Summary] 
 
