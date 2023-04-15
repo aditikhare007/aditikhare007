@@ -3,25 +3,44 @@
 <a href="https://aditikhare007.github.io/Aditi_Khare_Full_Stack_AI_Machine_Learning_Product_Engineer_Portfolio.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/aditi_final_gihub_portfolio_repo_image.png" /></a>
 
 
+Want to know more about me? [Check out my Full Stack AI Machine Learning Product Research Engineer & Open Source Contributor Portfolio - Personal Website -](https://aditikhare007.github.io/Aditi_Khare_Full_Stack_AI_Machine_Learning_Product_Engineer_Portfolio.github.io/)
+
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](<https://www.linkedin.com/in/aditi-khare-5840977b/>)
-
-### Hello I am Aditi Khare  👋
-
-
-
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](<https://twitter.com/AditiKh32506701/>)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](<aditikhare007@gmail.com>)
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](<https://medium.com/@aditikhare007>)
 
 
-<!--
-**aditikhare007/aditikhare007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello I am Aditi Khare 👋
 
-Here are some ideas to get you started:
+### A Focused, Ambitious & Passionate Full Stack AI Machine Learning Product Research Engineer and an Open Source Contributor with 6.5+ years of Experience in Diverse Business Domains. Always Drive to learn & work on Cutting Edge Technologies in AI & Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Pursued Big Data Analytics Course - Executive Education from Indian Institute of Management, Ahmedabad.
+### Pursued Master’s Degree in Computer Applications from K.J Somaiya Institute of Management, Mumbai with Distinction.
+
+### AI Engineering Tech Stack - Experienced & Passionate Full Stack Machine Learning Product Research Engineer to Developed End to End AI Products from Scratch POC to Go-Live in Production Environment.
+
+## Core Competencies - AWS Specialist - AWS Sagemaker, Python, Research & Development Activities.
+
+### Data Visualization - Tableau, Power BI, Apache Superset.
+
+### AI Tech Stack - Machine Learning - Linear & Tree Based Models, Tensorflow, PyTorch & AutoML - AutoSKLearn, AutoKears Techniques in Python & Amazon Sagemaker Canvas Services.
+### Anomaly Detection Techniques - Random Cut Forest, Isolation Forest, Standard Deviation & Elliptic Envelope.
+### Explainable AI [XAI]- Permutation Importance, SHAP, LIME, DeepLIFT & PiML - Interpretable ML.
+
+### Natural Language Processing - Sentiment Analysis, Transformers, NER Models, AI ChatBot using Advanced NLP Techniques, Generative AI, Large Language Models, ### Streamlit & Hugging Face & Web Scraping.
+### Computer Vision - OpenCV, Object Character Recognition, Object & Face Recognition & Vision Transformers [Vit].
+
+### MLOPS - Drifts - Concept & Data Drifts, MLflow, Kubeflow, Docker, Kubernetes, CICD, Productizing ML Models, Grafana & Model Monitoring using Evidently AI.
+
+### Web Framework - Flask & Django
+### Databases - Microsoft SQL Server, Postgres SQL, Redis, MongoDB.
+### Operating System - Linux Administrator & Windows.
+
+
+
+
+
+
+
+
