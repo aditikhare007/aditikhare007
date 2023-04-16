@@ -18,6 +18,9 @@ Want to know more about me? [Check out my [Personal Website] Full Stack AI Machi
 <a href="https://www.linkedin.com/company/cohere-ai/mycompany/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Cohere.png" /></a>
 <a href="https://www.linkedin.com/company/evidently-ai/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Evidently_AI.png" /></a>
 <a href="https://www.linkedin.com/company/voiceflowhq/mycompany/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Voiceflow.png" /></a>
+<a href="https://www.linkedin.com/company/perplexity-ai/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Perplexity%20AI.jpg" /></a>
+<a href="https://www.linkedin.com/company/assemblyai/mycompany/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Assembly%20AI.png" /></a>
+<a href="https://www.linkedin.com/company/eddiehub/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/eddiehub.png" /></a>
 
 ## Hello Developer Community 👋 About me [Aditi Khare's Profile Summary] 
 
