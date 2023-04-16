@@ -18,7 +18,7 @@ Want to know more about me? [Check out my [Personal Website] Full Stack AI Machi
 <a href="https://www.linkedin.com/company/cohere-ai/mycompany/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Cohere.png" /></a>
 <a href="https://www.linkedin.com/company/evidently-ai/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Evidently_AI.png" /></a>
 
-## Hello Developer Community 👋 About my [Aditi Khare's Profile Summary] 
+## Hello Developer Community 👋 About me [Aditi Khare's Profile Summary] 
 
 #### A Focused, Ambitious & Passionate Full Stack AI Machine Learning Product Research Engineer and an Open Source Contributor with 6.5+ years of Experience in Diverse Business Domains. Always Drive to learn & work on Cutting Edge Technologies in AI & Machine Learning.
 #### Pursued Big Data Analytics Course - Executive Education from Indian Institute of Management, Ahmedabad.
