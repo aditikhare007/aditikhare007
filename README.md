@@ -1,6 +1,6 @@
 
 
-<a href="https://aditikhare007.github.io/Aditi_Khare_Full_Stack_AI_Machine_Learning_Product_Engineer_Portfolio.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/aditi_final_gihub_portfolio_repo_image.png" /></a>
+<a href="https://aditikhare007.github.io/Aditi_Khare_Full_Stack_AI_Machine_Learning_Product_Engineer_Portfolio.github.io/" target="_blank"><img src="https://github.com/aditikhare007/aditikhare007/blob/main/Final_Github_Background_Profile_Image_Open_Source_Contributor.png" /></a>
 
 
 Want to know more about me? [Check out my [Personal Website] Full Stack AI Machine Learning Product Research Engineer & Open Source Contributor Portfolio] (https://aditikhare007.github.io/Aditi_Khare_Full_Stack_AI_Machine_Learning_Product_Engineer_Portfolio.github.io/)
