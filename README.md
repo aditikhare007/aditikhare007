@@ -4,8 +4,8 @@
 
 
 Want to know more about me? [Check out my [Personal Website] Full Stack AI Machine Learning Product Research Engineer & Open Source Contributor Portfolio] 
-<img width="135" alt="image" src="https://user-images.githubusercontent.com/76804577/232485216-b04e4d81-c1b3-4085-9678-89fd9c2e6257.png">](<"https://aditikhare007.github.io/Aditi_Khare_Full_Stack_AI_Machine_Learning_Product_Engineer_Portfolio.github.io/">)
-
+<a href="https://aditikhare007.github.io/Aditi_Khare_Full_Stack_AI_Machine_Learning_Product_Engineer_Portfolio.github.io/" target="_blank">)<img width="135" alt="image" src="https://user-images.githubusercontent.com/76804577/232485216-b04e4d81-c1b3-4085-9678-89fd9c2e6257.png" /></a>
+  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](<https://www.linkedin.com/in/aditi-khare-5840977b/>)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](<https://twitter.com/AditiKh32506701/>)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](<aditikhare007@gmail.com>)
