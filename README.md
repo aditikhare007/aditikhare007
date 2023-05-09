@@ -13,16 +13,8 @@ Want to know more about me? [Check out my [Personal Website] Full Stack AI Machi
 
 ### Global Community Member - Open-Source Contributor, Learning, Sharing knowledge and Research Papers Reading Group Member part of Amazing AI Global Communities across the globe !! 
 
-<a href="https://lets-unify.ai/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Ivy_Image.png" /></a>
-<a href="https://www.linkedin.com/company/mlops-learners/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/MLOPS.png" /></a>
-<a href="https://www.linkedin.com/company/huggingface/mycompany/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Hugging_Face.png" /></a>
-<a href="https://www.linkedin.com/company/cohere-ai/mycompany/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Cohere.png" /></a>
-<a href="https://www.linkedin.com/company/evidently-ai/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Evidently_AI.png" /></a>
-<a href="https://www.linkedin.com/company/voiceflowhq/mycompany/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Voiceflow.png" /></a>
-<a href="https://www.linkedin.com/company/perplexity-ai/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Perplexity%20AI.jpg" /></a>
-<a href="https://www.linkedin.com/company/assemblyai/mycompany/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Assembly%20AI.png" /></a>
-<a href="https://www.linkedin.com/company/eddiehub/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/eddiehub.png" /></a>
-<a href="https://www.linkedin.com/showcase/meta-open-source/" target="_blank"><img src="https://raw.githubusercontent.com/aditikhare007/aditikhare007/main/Meta_Open_Source.png" /></a>
+<a href="https://aditikhare007.github.io/Aditi_Khare_Full_Stack_AI_Machine_Learning_Product_Engineer_Portfolio.github.io" target="_blank"><img src="https://github.com/aditikhare007/aditikhare007/blob/main/Global_AI_Communities.png" /></a>
+
 
 ## Hello Developer Community 👋 About me [Aditi Khare's Profile Summary] 
 
