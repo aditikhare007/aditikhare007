@@ -11,7 +11,7 @@ Want to know more about me? [Check out my [Personal Website] Full Stack AI Machi
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](<aditikhare007@gmail.com>)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](<https://medium.com/@aditikhare007>)
 
-<a href="https://aditikhare007.github.io/Aditi_Khare_Full_Stack_AI_Machine_Learning_Product_Engineer_Portfolio.github.io" target="_blank"><img src="https://github.com/aditikhare007/aditikhare007/blob/main/Global_AI_Communities.png" /></a>
+<a href="https://aditikhare007.github.io/Aditi_Khare_Full_Stack_AI_Machine_Learning_Product_Engineer_Portfolio.github.io" target="_blank"><img src="https://github.com/aditikhare007/aditikhare007/blob/main/Global%20AI%20Communities.png" /></a>
 
 
 ## Hello Developer Community 👋 About me [Aditi Khare's Profile Summary] 
