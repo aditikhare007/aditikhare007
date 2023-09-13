@@ -16,7 +16,7 @@ Want to know more about me? [Check out my [Personal Website] AWS & Generative AI
 
 ## Hello Developer Community 👋 About me [Aditi Khare's Profile Summary] 
 
-### A Focused, Ambitious & Passionate AWS & Generative AI Specialist-Principal Applied AI Large-Scale End to End Product Engineer  & Enterprise Architect and an Open Source Contributor with 6.5+ years of Experience in Diverse Business Domains. Always Drive to learn & work on Cutting Edge Technologies in AI & Machine Learning.
+### A Focused, Ambitious & Passionate AWS & Generative AI Specialist-Principal Applied AI Large-Scale End to End Product Engineer  & Enterprise Architect and an Open Source Contributor with 7+ years of Experience in Diverse Business Domains. Always Drive to learn & work on Cutting Edge Technologies in AI & Machine Learning.
 #### Pursued Big Data Analytics Course - Executive Education from Indian Institute of Management, Ahmedabad.
 #### Pursued Master’s Degree in Computer Applications from K.J Somaiya Institute of Management, Mumbai with Distinction.
 #### AI Engineering Tech Stack - Experienced & Passionate Full Stack Machine Learning Product Engineer to Developed End to End AI Products from Scratch POC to Go-Live in Production Environment.
