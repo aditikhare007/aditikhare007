@@ -15,12 +15,20 @@ with 7+ Years of Experience in Fortune 50 Product Companies.
 
 ## AI Latest Research Papers Collection ### 
 
+1. LLM360-Fully Transparent Open-Source LLMs-https://arxiv.org/pdf/2312.06550.pdf
+2. 
+
+
+
+
+
+
 
 ## Open AI's Prompt Engineering Handbook ##
 
 https://platform.openai.com/docs/guides/prompt-engineering
 
-OpenAI Cookbook - Github
+## OpenAI Cookbook - Github ## 
 
 https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md#how-to-improve-reliability-on-complex-tasks
 
@@ -74,6 +82,10 @@ Mojo combines the usability of Python with the performance of C, unlocking unpar
 
 Replit - Training Large Language Models
 https://replit.com/@MckayWrigley/Takeoff-School-LangChain-101-Models?v=1
+
+## Lean Copilot: LLMs as Copilots for Theorem Proving in Lean ## 
+Lean Copilot allows large language models (LLMs) to be used in Lean for proof automation, e.g., suggesting tactics/premises and searching for proofs. You can use our built-in models from LeanDojo or bring your own models that run either locally (w/ or w/o GPUs) or on the cloud.
+
 
 ## Thank you AI community for visiting my repository - Stay tuned for awesome AI Research Learning Resources ##
 
