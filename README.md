@@ -15,12 +15,25 @@ with 7+ Years of Experience in Fortune 50 Product Companies.
 
 ## AI Latest Research Papers Collection ### 
 
-1. LLM360-Fully Transparent Open-Source LLMs-https://arxiv.org/pdf/2312.06550.pdf
-2. 
+## Quantum AI Research Papers Collection ##
 
+2nd Decemeber 2023 -
+Hybrid Quantum Neural Network in High-dimensional Data Classification-https://arxiv.org/abs/2312.01024 
 
+## Gen AI Research Papers Collection ##
 
+1. 11th Dec 2023 - LLM360-Fully Transparent Open-Source LLMs-https://arxiv.org/pdf/2312.06550.pdf
+2. 12th Dec 2023 - Mathematical Language Models: A Survey-https://arxiv.org/abs/2312.07622
+3. 13th Dec 2023 - PromptBench: A Library for Evaluation of Large Language Models-https://arxiv.org/pdf/2312.07910.pdf
+4. 1st Dec 2023 - Mamba: Linear-Time Sequence Modeling with Selective State Spaces-https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf
+5.14th Dec 2023 - Distributed Representations of Words and Phrases and their Compositionality (Word2vec)-https://papers.nips.cc/paper_files/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf
+6. 11th Dec 2023 - Beyond Human Data - Scaling Self-Training for Problem-Solving with Language Models
+   Proposes an approach for self-training with feedback that can substantially reduce dependence on human-generated data.
+   The model-generated data combined with a reward function improves the performance of LLMs on problem-solving tasks.
+   Very generalizable and scalable approach that can help improve different aspects of an LLM like safety.
 
+## Nov 2023 - ##
+1. 9th Nov 2023 - A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges-https://arxiv.org/abs/2311.05112
 
 
 
