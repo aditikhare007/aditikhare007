@@ -5,7 +5,7 @@
 ### Stay Tuned with Latest Advancements in AI ###
 If you find the resources useful Please give star to this repository. Happy Learning !!
 
-AWS & Generative AI Research Specialist-Principal Applied AI Product Engineer & Enterprise Architect @ PepsiCo | IIM-A | Quantum AI | Mojo | Author | Applied AI Research Specialist [Portfolio] | LLMOPS | Langchain |
+AWS & Generative AI Research Specialist-Principal Applied AI Product Engineer & Enterprise Architect @ PepsiCo | IIM-A | Quantum AI | Mojo | Author | Applied AI Research Specialist [Portfolio] | LLMOPS | Langchain | Next JS | Bootstrap | API | 
 with 7+ Years of Experience in Fortune 50 Product Companies.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](<https://www.linkedin.com/in/aditi-khare-5840977b/>)
