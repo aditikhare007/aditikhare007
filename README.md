@@ -31,14 +31,18 @@ https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
 
 https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.htm
 
-https://fullstackdeeplearning.com/llm-bootcamp/ by @Charles Frye @Sergey Karayev @Josh Tobin
+## Building LLM applications for production  by @Chip Huyen ## 
+https://huyenchip.com/2023/04/11/llm-engineering.html
 
-### Prompt Engineering Guide - Excellent Resources for Latest Research Papers on Prompt Engineering by @Elvis Saravia ###
+## Full Stack LLM Bootcamp by @Charles Frye @Sergey Karayev @Josh Tobin ## 
+https://fullstackdeeplearning.com/llm-bootcamp/ 
+
+## Prompt Engineering Guide - Excellent Resources for Latest Research Papers on Prompt Engineering by @Elvis Saravia ##
 https://www.promptingguide.ai/](https://www.promptingguide.ai/).
 
 ## Awesome Resources of AI Machine Learning, MLOPS , Productionizing Machine Learning Models at Scale ##
 
-@Goku Mohandas - MadeWithML
+MadeWithML - @Goku Mohandas
 https://madewithml.com/courses/mlops/testing/
 
 Awesome Production Machine Learning - 
@@ -53,18 +57,25 @@ Vedio Lecture Explaination on Transformers - https://www.youtube.com/watch?v=rBC
 The Annotated Transformer - Code Implmentation along with Model Architecture -
 https://nlp.seas.harvard.edu/2018/04/03/attention.html
 
-Hugging Face Transformers Library Github Repository -
+## Hugging Face Transformers Library Github ##
 https://github.com/huggingface/transformers
 
-FullStack DeepLearning Prof - @Sergey Karayev - Good Read on GPT Architecture.
+### FullStack DeepLearning Prof - @Sergey Karayev - Good Read on GPT Architecture ###
 https://dugas.ch/artificial_curiosity/GPT_architecture.html
 
-Building LLM applications for production - 
-https://huyenchip.com/2023/04/11/llm-engineering.html
-
 About - An awesome & curated list of best LLMOps tools for developers -
-
 https://github.com/tensorchord/Awesome-LLMOps
+
+## A list of open LLMs available for commercial use by @eugeneyan ##
+https://github.com/eugeneyan/open-llms
+
+@ModularAI - @Mojo 🔥 — a new programming language for all AI developers -
+Mojo combines the usability of Python with the performance of C, unlocking unparalleled programmability of AI hardware and extensibility of AI models.
+
+Replit - Training Large Language Models
+https://replit.com/@MckayWrigley/Takeoff-School-LangChain-101-Models?v=1
+
+## Thank you AI community for visiting my repository - Stay tuned for awesome AI Research Learning Resources ##
 
 
 
