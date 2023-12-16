@@ -13,6 +13,12 @@ with 7+ Years of Experience in Fortune 50 Product Companies.
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](<aditikhare007@gmail.com>)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](<https://medium.com/@aditikhare007>)
 
+## AI Latest Research Papers Collection ### 
+
+
+## Open AI's Prompt Engineering Handbook ##
+
+https://platform.openai.com/docs/guides/prompt-engineering
 
 ### Prompt Engineering Guide - Excellent Resources for Latest Research Papers on Prompt Engineering by Elvis Saravia 
 https://www.promptingguide.ai/](https://www.promptingguide.ai/).
@@ -63,6 +69,16 @@ https://www.promptingguide.ai/](https://www.promptingguide.ai/).
 - [Prompt Engineering - Notebooks](https://www.promptingguide.ai/notebooks)
 - [Prompt Engineering - Datasets](https://www.promptingguide.ai/datasets)
 - [Prompt Engineering - Additional Readings](https://www.promptingguide.ai/readings)
+
+## Awesome Resources of AI Machine Learning, MLOPS , Productionizing Machine Learning Models at Scale ##
+1. Goku Mohandas - MadeWithML
+https://madewithml.com/courses/mlops/testing/
+
+2. Awesome Production Machine Learning - 
+https://github.com/EthicalML/awesome-production-machine-learning
+
+3. Transformers from Scratch - Awesome Transformers Explaination -
+https://e2eml.school/transformers.html#resources
 
 
 
