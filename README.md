@@ -15,6 +15,8 @@ with 7+ Years of Experience in Fortune 50 Product Companies.
 
 ## AI Latest Research Papers Collection ### 
 
+## Aditi AI Research Specialist Portfolio - https://github.com/aditikhare007/Aditi-AI-Research-Specialist-Portfolio ##
+
 ## Quantum AI Research Papers Collection ##
 
 2nd Decemeber 2023 -
