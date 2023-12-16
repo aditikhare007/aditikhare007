@@ -20,66 +20,51 @@ with 7+ Years of Experience in Fortune 50 Product Companies.
 
 https://platform.openai.com/docs/guides/prompt-engineering
 
-### Prompt Engineering Guide - Excellent Resources for Latest Research Papers on Prompt Engineering by Elvis Saravia 
+OpenAI Cookbook - Github
+
+https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md#how-to-improve-reliability-on-complex-tasks
+
+## Lilianweng's Gitub Resources & Blogs ##
+https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
+
+## Real-time machine learning: challenges and solutions by @Chip Huyen ## 
+
+https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.htm
+
+https://fullstackdeeplearning.com/llm-bootcamp/ by @Charles Frye @Sergey Karayev @Josh Tobin
+
+### Prompt Engineering Guide - Excellent Resources for Latest Research Papers on Prompt Engineering by @Elvis Saravia ###
 https://www.promptingguide.ai/](https://www.promptingguide.ai/).
 
-- [Prompt Engineering - Introduction](https://www.promptingguide.ai/introduction)
-  - [Prompt Engineering - LLM Settings](https://www.promptingguide.ai/introduction/settings)
-  - [Prompt Engineering - Basics of Prompting](https://www.promptingguide.ai/introduction/basics)
-  - [Prompt Engineering - Prompt Elements](https://www.promptingguide.ai/introduction/elements)
-  - [Prompt Engineering - General Tips for Designing Prompts](https://www.promptingguide.ai/introduction/tips)
-  - [Prompt Engineering - Examples of Prompts](https://www.promptingguide.ai/introduction/examples)
-- [Prompt Engineering - Techniques](https://www.promptingguide.ai/techniques)
-  - [Prompt Engineering - Zero-Shot Prompting](https://www.promptingguide.ai/techniques/zeroshot)
-  - [Prompt Engineering - Few-Shot Prompting](https://www.promptingguide.ai/techniques/fewshot)
-  - [Prompt Engineering - Chain-of-Thought Prompting](https://www.promptingguide.ai/techniques/cot)
-  - [Prompt Engineering - Self-Consistency](https://www.promptingguide.ai/techniques/consistency)
-  - [Prompt Engineering - Generate Knowledge Prompting](https://www.promptingguide.ai/techniques/knowledge)
-  - [Prompt Engineering - Tree of Thoughts (ToT)](https://www.promptingguide.ai/techniques/tot)
-  - [Prompt Engineering - Automatic Reasoning and Tool-use (ART)](https://www.promptingguide.ai/techniques/art)
-  - [Prompt Engineering - Automatic Prompt Engineer](https://www.promptingguide.ai/techniques/ape)
-  - [Prompt Engineering - Active-Prompt](https://www.promptingguide.ai/techniques/activeprompt)
-  - [Prompt Engineering - Directional Stimulus Prompting](https://www.promptingguide.ai/techniques/dsp)
-  - [Prompt Engineering - ReAct Prompting](https://www.promptingguide.ai/techniques/react)
-  - [Prompt Engineering - Multimodal CoT Prompting](https://www.promptingguide.ai/techniques/multimodalcot)
-  - [Prompt Engineering - Graph Prompting](https://www.promptingguide.ai/techniques/graph)
-- [Prompt Engineering - Applications](https://www.promptingguide.ai/applications)
-  - [Prompt Engineering - Program-Aided Language Models](https://www.promptingguide.ai/applications/pal)
-  - [Prompt Engineering - Generating Data](https://www.promptingguide.ai/applications/generating)
-  - [Prompt Engineering - Generating Synthetic Dataset for RAG](https://www.promptingguide.ai/applications/synthetic_rag)
-  - [Prompt Engineering - Takling Generated Datasets Diversity](https://www.promptingguide.ai/applications/generating_textbooks)
-  - [Prompt Engineering - Generating Code](https://www.promptingguide.ai/applications/coding)
-  - [Prompt Engineering - Graduate Job Classification Case Study](https://www.promptingguide.ai/applications/workplace_casestudy)
-- [Prompt Engineering - Models](https://www.promptingguide.ai/models)
-  - [Prompt Engineering - Flan](https://www.promptingguide.ai/models/flan)
-  - [Prompt Engineering - ChatGPT](https://www.promptingguide.ai/models/chatgpt)
-  - [Prompt Engineering - LLaMA](https://www.promptingguide.ai/models/llama)
-  - [Prompt Engineering - GPT-4](https://www.promptingguide.ai/models/gpt-4)
-  - [Prompt Engineering - Model Collection](https://www.promptingguide.ai/models/collection)
-- [Prompt Engineering - Risks and Misuses](https://www.promptingguide.ai/risks)
-  - [Prompt Engineering - Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial)
-  - [Prompt Engineering - Factuality](https://www.promptingguide.ai/risks/factuality)
-  - [Prompt Engineering - Biases](https://www.promptingguide.ai/risks/biases)
-- [Prompt Engineering - Papers](https://www.promptingguide.ai/papers)
-  - [Prompt Engineering - Overviews](https://www.promptingguide.ai/papers#overviews)
-  - [Prompt Engineering - Approaches](https://www.promptingguide.ai/papers#approaches)
-  - [Prompt Engineering - Applications](https://www.promptingguide.ai/papers#applications)
-  - [Prompt Engineering - Collections](https://www.promptingguide.ai/papers#collections)
-- [Prompt Engineering - Tools](https://www.promptingguide.ai/tools)
-- [Prompt Engineering - Notebooks](https://www.promptingguide.ai/notebooks)
-- [Prompt Engineering - Datasets](https://www.promptingguide.ai/datasets)
-- [Prompt Engineering - Additional Readings](https://www.promptingguide.ai/readings)
-
 ## Awesome Resources of AI Machine Learning, MLOPS , Productionizing Machine Learning Models at Scale ##
-1. Goku Mohandas - MadeWithML
+
+@Goku Mohandas - MadeWithML
 https://madewithml.com/courses/mlops/testing/
 
-2. Awesome Production Machine Learning - 
+Awesome Production Machine Learning - 
 https://github.com/EthicalML/awesome-production-machine-learning
 
-3. Transformers from Scratch - Awesome Transformers Explaination -
+Transformers from Scratch - Awesome Transformers Explaination -
 https://e2eml.school/transformers.html#resources
 
+Attention is all you need; Attentional Neural Network Models | Łukasz Kaiser | Masterclass -
+Vedio Lecture Explaination on Transformers - https://www.youtube.com/watch?v=rBCqOTEfxvg
+
+The Annotated Transformer - Code Implmentation along with Model Architecture -
+https://nlp.seas.harvard.edu/2018/04/03/attention.html
+
+Hugging Face Transformers Library Github Repository -
+https://github.com/huggingface/transformers
+
+FullStack DeepLearning Prof - @Sergey Karayev - Good Read on GPT Architecture.
+https://dugas.ch/artificial_curiosity/GPT_architecture.html
+
+Building LLM applications for production - 
+https://huyenchip.com/2023/04/11/llm-engineering.html
+
+About - An awesome & curated list of best LLMOps tools for developers -
+
+https://github.com/tensorchord/Awesome-LLMOps
 
 
 
