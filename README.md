@@ -1,8 +1,9 @@
 
 ## Greetings AI Community 👋 About me [Aditi Khare's Profile Summary] 
 
-### Stay Tuned with Latest Advancements in AI Research ### 
-If you like the content Please give star to this repository - Happy Learning
+## Welcome to Aditi Khare's AI Research Collection ##
+### Stay Tuned with Latest Advancements in AI ###
+If you like the content Please give star to this repository. Happy Learning!!
 
 AWS & Generative AI Research Specialist-Principal Applied AI Product Engineer & Enterprise Architect @ PepsiCo | IIM-A | Quantum AI | Mojo | Author | Applied AI Research Specialist [Portfolio] | LLMOPS | Langchain |
 with 7+ Years of Experience in Fortune 50 Product Companies.
