@@ -1,5 +1,4 @@
 
-
 <a href="https://aditikhare007.github.io/Aditi_Khare_Full_Stack_AI_Machine_Learning_Product_Engineer_Portfolio.github.io/" target="_blank"><img src="https://github.com/aditikhare007/aditikhare007/blob/main/Github_New_BG_Sept_23.png" /></a>
 
 
@@ -20,17 +19,9 @@ Want to know more about me? [Check out my [Personal Website] AWS & Generative AI
 #### Pursued Big Data Analytics Course - Executive Education from Indian Institute of Management, Ahmedabad.
 #### Pursued Master’s Degree in Computer Applications from K.J Somaiya Institute of Management, Mumbai with Distinction.
 #### AI Engineering Tech Stack - Experienced & Passionate AWS & Generative AI Research Specialist-Principal Applied AI Large-Scale End to End Product Engineer & Enterprise Architect to Developed End to End AI Products from Scratch POC to Go-Live in Production Environment.
-### Core Competencies - AWS Specialist - AWS Sagemaker, Python, Research & Development Activities.
-#### Data Visualization - Tableau, Power BI, Apache Superset.
-#### AI Tech Stack - Generative AI , Langchain, LLMs, LLOMOPS in Production, Machine Learning - Linear & Tree Based Models, Tensorflow, PyTorch & AutoML - AutoSKLearn, AutoKears Techniques in Python & Amazon Sagemaker Canvas Services, System Design - Enterprise Arhitect
-#### Anomaly Detection Techniques - Random Cut Forest, Isolation Forest, Standard Deviation & Elliptic Envelope.
-#### Explainable AI [XAI]- Permutation Importance, SHAP, LIME, DeepLIFT & PiML - Interpretable ML.
-#### Advanced Natural Language Processing - Sentiment Analysis, Transformers, NER Models, AI ChatBot using Advanced NLP Techniques, Generative AI, Research, Large Language Models - LLMOPS, LangChain, GPT4, Transformers Agents, Streamlit & Hugging Face & Web Scraping.
-#### Computer Vision - OpenCV, Object Character Recognition, Object & Face Recognition & Vision Transformers [Vit].
-#### MLOPS - Drifts - Concept & Data Drifts, MLflow, Kubeflow, Docker, Kubernetes, CICD, Productizing ML Models, Grafana & Model Monitoring using Evidently AI.
-#### Web Framework - Flask & Django
-#### Databases - Microsoft SQL Server, Postgres SQL, Redis, MongoDB.
-#### Operating System - Linux Administrator & Windows.
+### Core Competencies - AWS & Generative AI Research Specialist ###
+
+
 
 
 
