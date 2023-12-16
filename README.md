@@ -30,11 +30,15 @@ Hybrid Quantum Neural Network in High-dimensional Data Classification-https://ar
 6. 11th Dec 2023 - Beyond Human Data - Scaling Self-Training for Problem-Solving with Language Models
    Proposes an approach for self-training with feedback that can substantially reduce dependence on human-generated data.
    The model-generated data combined with a reward function improves the performance of LLMs on problem-solving tasks.
-   Very generalizable and scalable approach that can help improve different aspects of an LLM like safety.
+   Very generalizable and scalable approach that can help improve different aspects of an LLM like safety - https://arxiv.org/abs/2312.06585
 
 ## Nov 2023 - ##
 1. 9th Nov 2023 - A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges-https://arxiv.org/abs/2311.05112
 
+## AI Models ## 
+
+1. 11th Dec 2023 - Mistral-embed - An embedding model with a 1024 embedding dimension, achieves 55.26 on MTEB - https://mistral.ai/news/mixtral-of-experts/
+2. 
 
 
 ## Open AI's Prompt Engineering Handbook ##
