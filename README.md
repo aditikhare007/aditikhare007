@@ -22,7 +22,9 @@ Hybrid Quantum Neural Network in High-dimensional Data Classification-https://ar
 
 ## Gen AI Research Papers Collection ##
 
-1.11th Dec 2023 - Mistral-embed - An embedding model with a 1024 embedding dimension, achieves 55.26 on MTEB - https://mistral.ai/news/mixtral-of-experts/-
+## DEC 2023 ## 
+
+1. 11th Dec 2023 - Mistral-embed - An embedding model with a 1024 embedding dimension, achieves 55.26 on MTEB - https://mistral.ai/news/mixtral-of-experts/-
 2. 11th Dec 2023 - **LLM360-Fully Transparent Open-Source LLMs** -https://arxiv.org/pdf/2312.06550.pdf
 3. 12th Dec 2023 - **Mathematical Language Models: A Survey**-https://arxiv.org/abs/2312.07622
 4. 13th Dec 2023 - **PromptBench: A Library for Evaluation of Large Language Models**-https://arxiv.org/pdf/2312.07910.pdf
