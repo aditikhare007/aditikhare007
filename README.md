@@ -196,5 +196,4 @@ Lean Copilot allows large language models (LLMs) to be used in Lean for proof au
 
 ## Thank you AI community for visiting my repository - Stay tuned for awesome AI Research Learning Resources ##
 
-
-
+If you find the repository useful please give it a star - Thank you for visting my repository - Happy Learning !!
