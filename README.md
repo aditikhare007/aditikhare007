@@ -4,15 +4,17 @@
 About Me : Core Competencies 
 AWS & Generative AI Research Specialist-Principal Applied AI Product Engineer & Enterprise Architect @ PepsiCo | IIM-A | Quantum AI | Mojo | Author | Applied AI Research Specialist [Portfolio] | LLMOPS | Langchain | Next JS | Bootstrap | API | 7+ Years of Experience in Fortune 50 Product Companies | 
 
-## AI Latest Research Papers Collection ### 
+## Aditi AI Research Specialist Portfolio ##
 
 <a href="https://github.com/aditikhare007/Aditi-AI-Research-Specialist-Portfolio" class="button icon search"> Aditi AI Research Specialist Portfolio</a>
 
+I am reacable at -
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](<https://www.linkedin.com/in/aditi-khare-5840977b/>)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](<https://twitter.com/AditiKh32506701/>)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](<aditikhare007@gmail.com>)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](<https://medium.com/@aditikhare007>)
 
+## AI Latest Research Papers Collection ### 
 ## Quantum AI Research Papers Collection ##
 
 2nd Decemeber 2023 -
