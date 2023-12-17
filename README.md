@@ -8,7 +8,7 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](<aditikhare007@gmail.com>)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](<https://medium.com/@aditikhare007>)
 
-Global Top AI Community Member @MLOPS Community, @Pandas AI, @Full Stack Deep Learning, @H2o.ai Generative AI, @Modular & @Cohere AI @hugging Face Research Papers Group @Papers with Code @DAIR.AI Completed 90+ Online Technical Paid Courses from Udemy & Coursera as I believe in Continuous Learning and Growth Mindset.
+Global Top AI Community Member @MLOPS Community, @Pandas AI, @Full Stack Deep Learning, @H2o.ai Generative AI, @Modular & @Cohere AI @hugging Face Research Papers Group @Papers with Code @DAIR.AI. Completed 90+ Online Technical Paid Courses from Udemy & Coursera as I believe in Continuous Learning and Growth Mindset.
 
 ## ** Aditi AI Research Specialist Portfolio ** ##
 
