@@ -17,8 +17,7 @@ I am reacable at -
 ## AI Latest Research Papers Collection ### 
 ## Quantum AI Research Papers Collection ##
 
-2nd Decemeber 2023 -
-Hybrid Quantum Neural Network in High-dimensional Data Classification-https://arxiv.org/abs/2312.01024 
+2nd Dec 2023 - Hybrid Quantum Neural Network in High-dimensional Data Classification-https://arxiv.org/abs/2312.01024 
 
 ## Gen AI Research Papers Collection ##
 
