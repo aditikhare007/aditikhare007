@@ -1,25 +1,24 @@
 
 ## Greetings AI Community 👋 About me [Aditi Khare's Profile Summary] 
 
-About Me : Core Competencies 
-AWS & Generative AI Research Specialist-Principal Applied AI Product Engineer & Enterprise Architect @ PepsiCo | IIM-A | Quantum AI | Mojo | Author | Applied AI Research Specialist [Portfolio] | LLMOPS | Langchain | Next JS | Bootstrap | API | 7+ Years of Experience in Fortune 50 Product Companies | 
+** About Me : Core Competencies **
+** AWS & Generative AI Research Specialist-Principal Applied AI Product Engineer & Enterprise Architect @ PepsiCo | IIM-A | Quantum AI | Mojo | Author | Applied AI Research Specialist [Portfolio] | LLMOPS | Langchain | Next JS | Bootstrap | API | 7+ Years of Experience in Fortune 50 Product Companies | **
 
-## Aditi AI Research Specialist Portfolio ##
-
-<a href="https://github.com/aditikhare007/Aditi-AI-Research-Specialist-Portfolio" class="button icon search"> Aditi AI Research Specialist Portfolio</a>
-
-I am reacable at -
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](<https://www.linkedin.com/in/aditi-khare-5840977b/>)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](<https://twitter.com/AditiKh32506701/>)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](<aditikhare007@gmail.com>)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](<https://medium.com/@aditikhare007>)
 
-## AI Latest Research Papers Collection ### 
-## Quantum AI Research Papers Collection ##
+## ** Aditi AI Research Specialist Portfolio ** ##
+
+<a href="https://github.com/aditikhare007/Aditi-AI-Research-Specialist-Portfolio" class="button icon search"> ** Aditi AI Research Specialist Portfolio** </a> 
+
+## ** AI Latest Research Papers Collection ** ### 
+## ** Quantum AI Research Papers Collection ** ##
 
 2nd Dec 2023 - Hybrid Quantum Neural Network in High-dimensional Data Classification-https://arxiv.org/abs/2312.01024 
 
-## Gen AI Research Papers Collection ##
+## ** Gen AI Research Papers Collection ** ##
 
 ## DEC 2023 ## 
 
@@ -29,10 +28,10 @@ I am reacable at -
 4. 13th Dec 2023 - **PromptBench: A Library for Evaluation of Large Language Models**-https://arxiv.org/pdf/2312.07910.pdf
 5. 1st Dec 2023 - **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**-https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf
 
-## Full Stack LLM Bootcamp by @Charles Frye @Sergey Karayev @Josh Tobin ## 
+## ** Full Stack LLM Bootcamp **  by @Charles Frye @Sergey Karayev @Josh Tobin ## 
 https://fullstackdeeplearning.com/llm-bootcamp/ 
 
-## Prompt Engineering Guide - Excellent Resources for Latest Research Papers on Prompt Engineering by @Elvis Saravia ##
+## ** Prompt Engineering Guide **  - Excellent Resources for Latest Research Papers on Prompt Engineering by @Elvis Saravia ##
 https://www.promptingguide.ai/](https://www.promptingguide.ai/).
 
 ## A list of open LLMs available for commercial use by @eugeneyan ##
