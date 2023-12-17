@@ -12,36 +12,6 @@
 
 <a href="https://github.com/aditikhare007/Aditi-AI-Research-Specialist-Portfolio" class="button icon search"> ** Aditi AI Research Specialist Portfolio** </a> 
 
-## ** AI Latest Research Papers Collection ** ### 
-## ** Quantum AI Research Papers Collection ** ##
-
-2nd Dec 2023 - Hybrid Quantum Neural Network in High-dimensional Data Classification-https://arxiv.org/abs/2312.01024 
-
-## ** Gen AI Research Papers Collection ** ##
-
-## DEC 2023 ## 
-
-1. 11th Dec 2023 - Mistral-embed - An embedding model with a 1024 embedding dimension, achieves 55.26 on MTEB - https://mistral.ai/news/mixtral-of-experts/-
-2. 11th Dec 2023 - **LLM360-Fully Transparent Open-Source LLMs** -https://arxiv.org/pdf/2312.06550.pdf
-3. 12th Dec 2023 - **Mathematical Language Models: A Survey**-https://arxiv.org/abs/2312.07622
-4. 13th Dec 2023 - **PromptBench: A Library for Evaluation of Large Language Models**-https://arxiv.org/pdf/2312.07910.pdf
-5. 1st Dec 2023 - **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**-https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf
-
-## ** Full Stack LLM Bootcamp **  by @Charles Frye @Sergey Karayev @Josh Tobin ## 
-https://fullstackdeeplearning.com/llm-bootcamp/ 
-
-## ** Prompt Engineering Guide **  - Excellent Resources for Latest Research Papers on Prompt Engineering by @Elvis Saravia ##
-https://www.promptingguide.ai/](https://www.promptingguide.ai/).
-
-## A list of open LLMs available for commercial use by @eugeneyan ##
-https://github.com/eugeneyan/open-llms
-
-@ModularAI - @Mojo 🔥 — a new programming language for all AI developers -
-Mojo combines the usability of Python with the performance of C, unlocking unparalleled programmability of AI hardware and extensibility of AI models.
-
-@Replit - Training Large Language Models
-https://replit.com/@MckayWrigley/Takeoff-School-LangChain-101-Models?v=1
-
 ## Thank you AI community for visiting my repository - Stay tuned for awesome AI Research Learning Resources ##
 If you find the repository useful please give it a star - Thank you for visting my repository - Happy Learning !!
  
