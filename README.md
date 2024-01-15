@@ -14,6 +14,11 @@
 
 <a href="https://github.com/aditikhare007/Aditi-AI-Research-Specialist-Portfolio" class="button icon search"> ** Aditi AI Research Specialist Portfolio** </a> 
 
+## ** My AI Newsletter-AI Research Junction @Research Papers Summaries @Generative AI, @Computer Vision & @Quantum AI ** ## 
+
+<a href="https://www.linkedin.com/pulse/trustllm-trustworthiness-llms-aditi-khare-ch7uc/?trackingId=jCG0Bv%2FlT8KQCjiiAaCJbg%3D%3D" class="button icon search"> ** Aditi Khare AI Research Junction Newletter ** </a> 
+## If you find my content useful then please subscribe to my AI Research Junction Newletter ##
+
 ## Thank you AI community for visiting my repository - Stay tuned for awesome AI Research Learning Resources ##
 If you find the repository useful please give it a star - Thank you for visting my repository - Happy Learning !!
  
