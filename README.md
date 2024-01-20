@@ -1,7 +1,7 @@
 
 ## Greetings AI Community 👋 About me 
 
-** AWS & AI Research Specialist-Principal Applied AI Product Engineer [Product-Owner] & Enterprise Architect @PepsiCo | IIM-A | Community Member @Landing.AI | AI Research Specialist [Portfolio] | Author | Quantum AI | Mojo | Next JS | 7+ Years of Experience in Fortune 50 Product Companies | **
+** AWS & AI Research Specialist-Principal Applied AI Product Engineer [Product-Owner] & Enterprise Architect @PepsiCo | IIM-A | Community Member @Landing AI | AI Research Specialist [Portfolio] | Author | Quantum AI | Mojo | Next JS | 7+ Years of Experience in Fortune 50 Product Companies | **
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](<https://www.linkedin.com/in/aditi-khare-5840977b/>)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](<https://twitter.com/AditiKh32506701/>)
@@ -14,7 +14,7 @@
 
 <a href="https://github.com/aditikhare007/Aditi-AI-Research-Specialist-Portfolio" class="button icon search"> ** Aditi AI Research Specialist Portfolio** </a> 
 
-## ** My AI Newsletter-AI Research Junction @Research Papers Summaries @Generative AI, @Computer Vision & @Quantum AI ** ## 
+## ** My AI Research Junction Newsletter @Research Papers Summaries @Generative AI, @Computer Vision & @Quantum AI ** ## 
 [<img src="https://github.com/aditikhare007/aditikhare007/blob/main/Aditi_AI_Research_Junction_Logo_16th_Jan_24_Final.png">](<https://www.linkedin.com/pulse/trustllm-trustworthiness-llms-aditi-khare-ch7uc/>)
 
 <a href="https://www.linkedin.com/pulse/trustllm-trustworthiness-llms-aditi-khare-ch7uc/?trackingId=jCG0Bv%2FlT8KQCjiiAaCJbg%3D%3D" class="button icon search"> ** Aditi Khare AI Research Junction Newletter ** </a> 
