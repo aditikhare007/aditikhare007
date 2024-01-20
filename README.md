@@ -1,5 +1,5 @@
 
-## Greetings AI Community 👋 [<img src="https://img.shields.io/badge/About-333333.svg?style=for-the-badge&logo=aboutdotme&logoColor=white">](<https://www.linkedin.com/in/aditi-khare-5840977b/>)
+## Greetings AI Community 👋 [<img src="https://img.shields.io/badge/About Me-333333.svg?style=for-the-badge&logo=aboutdotme&logoColor=white">](<https://www.linkedin.com/in/aditi-khare-5840977b/>)
 
 ** AWS & AI Research Specialist-Principal Applied AI Product Engineer [Product-Owner] & Enterprise Architect @PepsiCo | IIM-A | Community Member @Landing AI | AI Research Specialist [Portfolio] | Author | Quantum AI | Mojo | Next JS | 7+ Years of Experience in Fortune 50 Product Companies | **
 
