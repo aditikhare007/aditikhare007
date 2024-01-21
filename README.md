@@ -8,7 +8,7 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](<aditikhare007@gmail.com>)
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/aditikhare007) 
 
-** Global Top AI Community Member @Landing.AI @MLOPS Community, @Pandas AI, @Full Stack Deep Learning, @HumaneAI @H2o.ai Generative AI, @Modular & @Cohere AI @Hugging Face Research Papers Group @Papers with Code @DAIR.AI ** ** Completed 90+ Online Technical Paid Courses from Udemy & Coursera as I believe in Continuous Learning and Growth Mindset **
+** Global Top AI Community Member @Landing AI @MLOPS Community, @Pandas AI, @Full Stack Deep Learning, @HumaneAI @H2o.ai Generative AI, @Modular & @Cohere AI @Hugging Face Research Papers Group @Papers with Code @DAIR.AI ** ** Completed 90+ Online Technical Paid Courses from Udemy & Coursera as I believe in Continuous Learning and Growth Mindset **
 
 ## ** AI Tech Stack ** ##
 <p>
