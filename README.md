@@ -45,7 +45,7 @@
 ## ** My AI Research Junction Newsletter @Research Papers Summaries @Generative AI, @Computer Vision & @Quantum AI ** ## 
 [<img src="https://github.com/aditikhare007/aditikhare007/blob/main/Aditi_AI_Research_Junction_Logo_16th_Jan_24_Final.png">](<https://www.linkedin.com/pulse/amazons-diffuse-choose-enriching-image-conditioned-inpainting-khare-y0byc/>)
 
-<a href="https://www.linkedin.com/pulse/1-chatqa-nividias-gpt-4-level-conversational-qa-models-aditi-khare-jrxjc/" class="button icon search"> ** Subscribe to my AI Research Junction Newletter ** </a> 
+<a href="https://www.linkedin.com/pulse/allen-institute-ai-olmo-open-language-model-science-aditi-khare-ap1xc%3FtrackingId=tisAlJAOTMex%252FtmuYju0tw%253D%253D/?trackingId=tisAlJAOTMex%2FtmuYju0tw%3D%3D/" class="button icon search"> ** Subscribe to my AI Research Junction Newletter ** </a> 
 ### If you find my content useful then please hit star to my repository & AI Research Junction Newsletter to support my work Thank you ###
 
 
