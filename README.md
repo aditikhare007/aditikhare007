@@ -43,10 +43,10 @@
 <a href="https://github.com/aditikhare007/AI_Research_Junction_Aditi_Khare" class="button icon search"> ** AI Research Junction@Aditi Khare-Research Papers Summaries @Gen AI @Computer Vision @Quantum AI** </a> 
 
 ## ** My AI Research Junction Newsletter @Research Papers Summaries @Generative AI, @Computer Vision & @Quantum AI ** ## 
-[<img src="https://github.com/aditikhare007/aditikhare007/blob/main/Aditi_AI_Research_Junction_Logo_16th_Jan_24_Final.png">](<https://www.linkedin.com/pulse/google-researchs-codeclm-aligning-language-models-tailored-khare-yfjxc/?trackingId=Rj6RT3IxQvOxymDXjcGvKA%3D%3D/>)
+[<img src="https://github.com/aditikhare007/aditikhare007/blob/main/Aditi_AI_Research_Junction_Logo_16th_Jan_24_Final.png">](<https://www.linkedin.com/newsletters/7152631955203739649/>)
 
-<a href="https://www.linkedin.com/pulse/google-researchs-codeclm-aligning-language-models-tailored-khare-yfjxc/?trackingId=Rj6RT3IxQvOxymDXjcGvKA%3D%3D/" class="button icon search"> ** Subscribe to my AI Research Junction Newletter ** </a> 
-### If you find my content useful then please hit star to my repository & AI Research Junction Newsletter to support my work Thank you ###
+<a href="https://www.linkedin.com/newsletters/7152631955203739649/" class="button icon search"> ** Subscribe to my AI Research Junction Newletter ** </a> 
+### Thank you so much for visting my Profile & Happy Reading ###
 
 
  
