@@ -46,7 +46,7 @@
 [<img src="https://github.com/aditikhare007/aditikhare007/blob/main/Aditi_AI_Research_Junction_Logo_16th_Jan_24_Final.png/">](<https://www.linkedin.com/newsletters/7152631955203739649/>)
 
 <a href="https://www.linkedin.com/newsletters/7152631955203739649/" class="button icon search"> ** Subscribe to my AI Research Junction Newletter ** </a> 
-### Thank you so much for visting my Profile & Happy Reading ###
+### Thank you so much for visting my Profile & Happy Reading !! ###
 
 
  
