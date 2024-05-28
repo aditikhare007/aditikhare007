@@ -7,20 +7,18 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](<https://www.linkedin.com/in/aditi-khare-5840977b/>)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](<https://twitter.com/AditiKh32506701/>)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](<aditikhare007@gmail.com>)
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>](https://github.com/aditikhare007/AI_Research_Junction_Aditi_Khare) 
-![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)[<https://substack.com/@airesearchjunctionaditishashi?utm_source=user-menu/>]
-![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)[<https://substack.com/@airesearchjunctionaditishashi?utm_source=user-menu/>]
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)[<https://www.kaggle.com/khareaditi/>]
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-
-
+[<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>](https://github.com/aditikhare007/AI_Research_Junction_Aditi_Khare) 
+[<img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"/>](<https://substack.com/@airesearchjunctionaditishashi?utm_source=user-menu/>)
+[<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">](<https://substack.com/@airesearchjunctionaditishashi?utm_source=user-menu/>)
+[<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](<"https://www.hackerrank.com/profile/aditikhare007">)
+[<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">](<https://www.kaggle.com/khareaditi/>)
+[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">](<https://www.kaggle.com/khareaditi/>)
+[<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white">]
+[<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">]
 
 ** Global Top AI Community Member @Landing AI @MLOPS Community, @Pandas AI, @Full Stack Deep Learning, @HumaneAI @H2o.ai Generative AI, @Modular & @Cohere AI @Hugging Face Research Papers Group @Papers with Code** ** Completed 100+ Online Technical Paid Courses from Udemy & Coursera as I believe in Continuous Learning and Growth Mindset **
 
-## ** Full Stack AI Tech Stack ** ##
+## ** Full Stack AI Product Research Engineer Tech Stack ** ##
 <p>
   <img src="https://img.shields.io/badge/arXiv-B31B1B.svg?style=for-the-badge&logo=arXiv&logoColor=white" />
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -38,9 +36,9 @@
   <img src="https://img.shields.io/badge/OpenSearch-005EB8.svg?style=for-the-badge&logo=OpenSearch&logoColor=white" />     
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
   	![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
