@@ -13,8 +13,8 @@
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](<"https://www.hackerrank.com/profile/aditikhare007">)
 [<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">](<https://www.kaggle.com/khareaditi/>)
 [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white">](<https://www.kaggle.com/khareaditi/>)
-[<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white">]
-[<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">]
+[<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white">](https://github.com/aditikhare007/AI_Research_Junction_Aditi_Khare) 
+[<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">](https://github.com/aditikhare007/AI_Research_Junction_Aditi_Khare) 
 
 ** Global Top AI Community Member @Landing AI @MLOPS Community, @Pandas AI, @Full Stack Deep Learning, @HumaneAI @H2o.ai Generative AI, @Modular & @Cohere AI @Hugging Face Research Papers Group @Papers with Code** ** Completed 100+ Online Technical Paid Courses from Udemy & Coursera as I believe in Continuous Learning and Growth Mindset **
 
