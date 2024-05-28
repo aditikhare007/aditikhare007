@@ -3,7 +3,7 @@
 
 ** AWS & AI Research Scientist-Principal Applied AI Product Engineer [Product-Owner] & Enterprise Architect @PepsiCo | IIM-A | Community Member @Landing AI | AI Research Scientist [Portfolio] | Author | Quantum AI | Mojo | Bootstrap | React JS | 8+ Years of Experience in Fortune 50 Product Companies | **
 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)[<https://github.com/aditikhare007/AI_Research_Junction_Aditi_Khare/>]
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">](<https://github.com/aditikhare007/AI_Research_Junction_Aditi_Khare/>)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](<https://www.linkedin.com/in/aditi-khare-5840977b/>)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](<https://twitter.com/AditiKh32506701/>)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](<aditikhare007@gmail.com>)
