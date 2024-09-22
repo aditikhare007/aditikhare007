@@ -1,7 +1,19 @@
 
 ## Greetings AI Community 👋 [<img src="https://img.shields.io/badge/About-Me-333333.svg?style=for-the-badge&logo=aboutdotme&logoColor=white">](<https://www.linkedin.com/in/aditi-khare-5840977b/>)
+** AWS & AI Research Specialist-Full Stack Applied AI Research Scientist & Enterprise Architect-AI Search & Developer Platforms | IIM-A | Honoured to Contribute on Book "Generative AI Application Integration Patterns"@Packt| Community Member @Landing AI | AI Research Scientist [Portfolio] | Author | Quantum AI | Mojo | Bootstrap | React JS | 8+ Years of Experience in Fortune 50 Product Companies | **
 
-** AWS & AI Research Scientist-Principal Applied AI Product Engineer [Product-Owner] & Enterprise Architect @PepsiCo | IIM-A | Community Member @Landing AI | AI Research Scientist [Portfolio] | Author | Quantum AI | Mojo | Bootstrap | React JS | 8+ Years of Experience in Fortune 50 Product Companies | **
+### ** Honoured to Contribute on Book "Generative AI Application Integration Patterns" Published by Packt ** ###
+[<img src="https://github.com/aditikhare007/AI_Research_Junction_Aditi_Khare/blob/main/3.png/">](<https://www.amazon.com/dp/1835887600/ref=tsm_1_fb_lk/>)
+
+## Generative AI Application Integration Patterns"@Packt is Avaiable on Amazon Grab your Copy Now !! ## 
+## Book Overview ##
+Unleash the transformative potential of GenAI with this comprehensive guide that serves as an indispensable roadmap for integrating large language models into real-world applications. Gain invaluable insights into identifying compelling use cases, leveraging state-of-the-art models effectively, deploying these models into your applications at scale, and navigating ethical considerations.
+### Key Features ### 
+Get familiar with the most important tools and concepts used in real scenarios to design GenAI apps
+Interact with GenAI models to tailor model behavior to minimize hallucinations
+Get acquainted with a variety of strategies and an easy to follow 4 step frameworks for integrating GenAI into applications.
+
+## Thank you so much for Visiting my Profile ##
 
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white">](<https://github.com/aditikhare007/AI_Research_Junction_Aditi_Khare/>)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](<https://www.linkedin.com/in/aditi-khare-5840977b/>)
