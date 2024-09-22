@@ -30,7 +30,7 @@ Get acquainted with a variety of strategies and an easy to follow 4 step framewo
 
 ** Global Top AI Community Member @Landing AI @MLOPS Community, @Pandas AI, @Full Stack Deep Learning, @HumaneAI @H2o.ai Generative AI, @Modular & @Cohere AI @Hugging Face Research Papers Group @Papers with Code** ** Completed 100+ Online Technical Paid Courses from Udemy & Coursera as I believe in Continuous Learning and Growth Mindset **
 
-## ** AWS & AI Research Scientist-Principal Applied AI Product Engineer Tech Stack ** ##
+## ** AWS & AI Research Specialist-Full Stack Applied AI Research Scientist & Enterprise Architect-AI Search & Developer Platforms Tech Stack ** ##
 <p>
   <img src="https://img.shields.io/badge/arXiv-B31B1B.svg?style=for-the-badge&logo=arXiv&logoColor=white" />
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
