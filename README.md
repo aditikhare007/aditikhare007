@@ -12,7 +12,7 @@
 ---
 
 ### 🔗 Featured
-- [Generative AI Application Integration Patterns](https://www.amazon.com/dp/1835887600/ref=tsm_1_fb_lk) — Contributor  
+- [Generative AI Application Integration Patterns](https://www.amazon.com/dp/1835887600/ref=tsm_1_fb_lk) — Contributor on Book
 - [AI Research Junction](https://www.linkedin.com/newsletters/7152631955203739649/) — Creator & Author  
 
 ---
