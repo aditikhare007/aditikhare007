@@ -1,13 +1,20 @@
 # 🌟 Aditi Khare
 
-**Enterprise AI Leader | Principal ML Scientist | AWS & AI Research Expert | IIM-A | Author | AI Strategy & Inference Optimization | AI Open-Source Advocate**
+**Aditi Khare — Enterprise AI Product & Applied Research Leader**
+
+<a
+  href="https://aditikhare.com"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="font-semibold text-gray-900 hover:text-[#677865] transition-colors"
+>
+  Aditi Khare — Enterprise AI Product & Applied Research Leader
+</a>
 
 ---
 
 ### 🔷 Professional Snapshot
-- Enterprise AI Leader — Product, Infrastructure, AI Architecture & Entrepreneurial Innovation  
-- Principal ML Scientist | Product Owner & AI Architect | AWS & AI Research Expert  
-- Author | AI Strategy & Inference Optimization | AI Open-Source Advocate  
+- Focused on My Next Leadership Chapter | Enterprise AI Leader with Ownership-Driven, Founder Mindset — Product, AI Architecture, Applied Research & Entrepreneurial Innovation | IIM-A | Author | AI Product Strategy | AI Open-Source Contributor | 
 
 ---
 
