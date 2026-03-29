@@ -1,7 +1,7 @@
 # 🌟 Aditi Khare
 
 **Aditi Khare — Enterprise AI Product & Applied Research Leader** 
-                 https://aditikhare.com"
+🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
 ---
 
 ### 🔷 Professional Snapshot
