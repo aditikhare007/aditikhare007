@@ -1,6 +1,6 @@
 ## 👩‍💻 Author
 
-### **Aditi Khare — AI Product & Research Leader**  
+### **Aditi Khare — Enterprise AI Product & Applied Research Leader**  
 Writing on AI research, product thinking, and system architecture  
 
 🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
