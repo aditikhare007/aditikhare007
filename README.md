@@ -1,21 +1,24 @@
+## 👩‍💻 Author
 
-# **Aditi Khare — Enterprise AI Product & Applied Research Leader** 
+**Aditi Khare — AI Product & Research Leader**  
+Writing on AI research, product thinking, and system architecture
 
 🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
----
+🔗 **GitHub Repository:** [Github](https://github.com/aditikhare007/AI-Research-Junction)  
+🤗 **Live Demo:** [View on Hugging Face](https://huggingface.co/AditiShashiKhare)  
+💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditikhare)
 
-### 🔷 Professional Snapshot
-- Focused on My Next Leadership Chapter | Enterprise AI Leader with Ownership-Driven, Founder Mindset — Product, AI Architecture, Applied Research & Entrepreneurial Innovation | IIM-A | Author | AI Product Strategy | AI Open-Source Contributor | 
+**Professional Snapshot**
 
----
+🔷 Enterprise AI Leader with Ownership-Driven, Founder Mindset — Product, AI Architecture, Applied Research & Entrepreneurial Innovation
+🔷 AWS & Applied AI Research Expert
+🔷 Author | AI Product Strategy & Inference Optimization
+🔷 Open-Source AI Contributor & Advocate
 
-### 🔗 Featured
-- [Generative AI Application Integration Patterns](https://www.amazon.com/dp/1835887600/ref=tsm_1_fb_lk) — Contributor on Book
-- [AI Research Junction](https://www.linkedin.com/newsletters/7152631955203739649/) — Creator & Author  
+**Publications & Knowledge Work**
 
----
+🔷 Generative AI Application Integration Patterns — Book Contributor.
+Published portfolio of top AI research paper summaries.
+🔷 AI Research Junction — Creator & Author, covering Generative AI & Agentic AI.
 
-### 📬 Connect
-[![Email](https://img.shields.io/badge/Email-aditikhare007@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:aditikhare007@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditi%20Khare-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditikhare007)  
-[![Book](https://img.shields.io/badge/Book-Generative%20AI-blueviolet?style=for-the-badge&logo=book)](https://www.amazon.com/dp/1835887600/ref=tsm_1_fb_lk)
+⭐ If this repository is useful, consider starring it to keep it on your radar and support my ongoing research and curation.
