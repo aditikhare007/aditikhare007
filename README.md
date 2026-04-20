@@ -14,7 +14,7 @@ Building and scaling **production-grade AI systems globally** — from 0→1 to 
 
 ---
 
-## 🚀 Leadership Profile  
+## 🚀 Enterprise AI Product, Platform & Applied Research Leader | 0→1 to Global Adoption
 
 Enterprise AI leader driving **global-scale AI products and platforms** across Fortune 50 product companies.  
 
