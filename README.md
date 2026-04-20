@@ -20,7 +20,7 @@ Enterprise AI leader driving **global-scale AI products and platforms** across F
 
 ### 🌐 AditiKhare.com — Enterprise AI Product Ecosystem | Decision Intelligence  
 
-I operate at the intersection of **AI product, platform architecture, and applied research**, building systems that move from experimentation to **enterprise deployment and adoption at scale**.  
+I operate at the intersection of **AI product, platform architecture, and applied research**, building systems that move from experimentation to **enterprise deployment and global adoption at enterprise scale**.  
 
 My work focuses on:
 - designing and scaling **AI platforms across global teams**  
