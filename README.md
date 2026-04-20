@@ -10,7 +10,7 @@ Building and scaling **production-grade AI systems globally** — from 0→1 to 
 - 🌐 Website: https://aditikhare.com  
 - 🔗 GitHub: https://github.com/aditikhare007  
 - 🤗 Hugging Face: https://huggingface.co/AditiShashiKhare  
-- 💼 LinkedIn: https://www.linkedin.com/in/aditikhare  
+- 💼 LinkedIn: https://www.linkedin.com/in/aditi-khare-5840977b/
 
 ---
 
