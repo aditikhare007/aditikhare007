@@ -1,7 +1,7 @@
 # 👩‍💻 Aditi Khare  
 
 ### **Enterprise AI Product, Platform & Applied Research Leader**  
-Building and scaling **production-grade AI systems globally** — from 0→1 to enterprise-wide adoption.  
+Building and scaling **production-grade AI systems globally** — from 0→1 to global adoption at enterprise scale.
 
 ---
 
@@ -18,11 +18,11 @@ Building and scaling **production-grade AI systems globally** — from 0→1 to 
 
 Enterprise AI leader driving **global-scale AI products and platforms** across Fortune 50 product companies.  
 
-I operate at the intersection of **AI product, platform architecture, and applied research**, building systems that move from experimentation to **enterprise deployment and adoption at scale**.  
+I operate at the intersection of **AI product, platform architecture, and applied research**, building systems that move from experimentation to **enterprise deployment and adoption at enterprise scale**.  
 
 My work focuses on:
 - designing and scaling **AI platforms across global teams**  
-- leading **end-to-end AI product ownership (0→1 → enterprise rollout)**  
+- leading **end-to-end AI product ownership (0→1 → enterprise scale global rollout)**  
 - translating advanced AI research into **production-ready, high-impact systems**  
 
 ---
