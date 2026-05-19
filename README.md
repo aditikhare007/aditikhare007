@@ -14,7 +14,7 @@ Architecting and scaling **production-grade AI systems globally** — Led & Owne
 
 ---
 
-## 🚀 Enterprise AI Product, Platform, Architecture, Strategy & Applied Research Leader | Led & Owned AI Products from 0→1 to Global Adoption & ROI at enterprise scale.
+#### 🚀 Enterprise AI Product, Platform, Architecture, Strategy & Applied Research Leader | Led & Owned AI Products from 0→1 to Global Adoption & ROI at enterprise scale.
 
 Enterprise AI leader enabling **global-scale AI products and platforms** across Fortune 50 product companies.  
 
