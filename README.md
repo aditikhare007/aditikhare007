@@ -14,13 +14,13 @@ Architecting and scaling **production-grade AI systems globally** — Led & Owne
 
 ---
 
-## 🚀 Enterprise AI Product, Platform & Applied Research Leader | 0→1 to Global Adoption
+## 🚀 Enterprise AI Product, Platform, Architecture, Strategy & Applied Research Leader | Led & Owned AI Products from 0→1 to Global Adoption & ROI at enterprise scale.
 
-Enterprise AI leader driving **global-scale AI products and platforms** across Fortune 50 product companies.  
+Enterprise AI leader enabling **global-scale AI products and platforms** across Fortune 50 product companies.  
 
 ### 🌐 AditiKhare.com — Enterprise AI Product Ecosystem | Decision Intelligence  
 
-I operate at the intersection of **AI product, platform architecture, and applied research**, building systems that move from experimentation to **enterprise deployment and global adoption at enterprise scale**.  
+I operate at the intersection of **AI product, platform architecture, and applied research**, architected systems that move from experimentation to **enterprise deployment and global adoption at enterprise scale**.  
 
 My work focuses on:
 - designing and scaling **AI platforms across global teams**  
@@ -31,6 +31,7 @@ My work focuses on:
 
 ## ⚙️ Core Areas  
 
+- AI Product Leadership & Ownership
 - Generative AI & Agentic Systems  
 - Enterprise AI Platforms & Architecture  
 - Applied AI Research → Production Systems  
