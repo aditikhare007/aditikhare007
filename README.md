@@ -1,7 +1,7 @@
 # 👩‍💼 Aditi Khare  
 
 ### **Enterprise AI Product, Platform, Architecture, Strategy & Applied Research Leader**  
-Architecting and scaling **production-grade AI systems globally** — Led & Owned AI Products from 0→1 to global adoption & ROI at enterprise scale.  
+Architecting and scaling **production-grade AI systems globally** — Championed 0 → 1 Enterprise AI Products and Platforms from Strategic Vision to Global Adoption, Operational Impact, and Measurable ROI
 
 ---
 
@@ -48,8 +48,8 @@ My work focuses on:
 
 ---
 
-### 🔷 AI Research Junction — Creator & Author  
-AI Research Junction  — Executive intelligence and strategic perspectives at the frontier of global enterprise AI.**  
+### 🔷 Founder, AI Research Junction — 
+Executive intelligence and strategic perspectives at the frontier of global enterprise AI.**  
 
 [![Subscribe on LinkedIn](https://img.shields.io/badge/Subscribe-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/newsletters/ai-research-junction-7152631955203739649/)  
 
@@ -59,7 +59,7 @@ AI Research Junction  — Executive intelligence and strategic perspectives at t
 
 ## 🧠 Perspective  
 
-I focus on building **enterprise AI systems that operate reliably at scale**—not just models that perform in isolation.  
+I focus on architecting **enterprise AI systems that operate reliably at scale**—not just models that perform in isolation.  
 
 This includes:
 - scalability across regions and teams  
