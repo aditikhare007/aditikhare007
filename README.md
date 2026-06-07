@@ -49,7 +49,7 @@ My work focuses on:
 ---
 
 ### 🔷 AI Research Junction — Creator & Author  
-Covering **Generative AI, Agentic AI, and modern AI systems at scale**  
+AI Research Junction  — Executive intelligence and strategic perspectives at the frontier of global enterprise AI.**  
 
 [![Subscribe on LinkedIn](https://img.shields.io/badge/Subscribe-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/newsletters/ai-research-junction-7152631955203739649/)  
 
